@@ -7,8 +7,7 @@ import csv
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
-import sys
-sys.path.append('cd C:\Users\melia\Desktop\TRAVAILM1NANTES\AI PROJET\source\source\classes')
+
 
 
 # Hide Pygame welcome message
